@@ -1,5 +1,12 @@
-# 💫 About Me:
-<br><br>👋 CS graduate & Full-Stack Developer who enjoys building clean, scalable apps and immersive digital experiences. I like working across the stack, mixing good UI/UX with solid backend logic, and learning new tech along the way.<br><br>🔭 Currently working on<br><br>Java (Spring Boot) & React<br><br>VR learning projects with Unity & AI<br><br>UI/UX & SPM<br><br>👯 Open to collaborating on<br><br>Full-stack web apps<br><br>UI/UX & SPM projects<br><br>Open-source (Java, React, MERN)<br><br>🤝 Looking for help with<br><br>System design & microservices<br><br>Cloud scaling & DevOps/MLOps<br><br>🌱 Currently learning<br><br>Spring Boot & Microservices<br><br>AWS & cloud deployments<br><br>DevOps, performance & clean architecture<br><br>💬 Ask me about<br><br>Java, Spring Boot, React, MERN<br><br>APIs, databases & UI/UX<br><br>QA & testing basics<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into simple, interactive products 🚀
+# I'm Ali Hamza
+<br><br>👋 <b>About Me:</b> CS graduate & Full-Stack Developer passionate about scalable apps, UI/UX, and immersive experiences.
+<br><br>🔭 <b>Currently working on:</b> Java (Spring Boot), React, VR learning (Unity + AI), UI/UX & SPM.
+<br><br>👯 <b>Looking to collaborate on:</b> Full-stack apps, UI/UX & SPM projects, and open-source Java/React/MERN.
+<br><br>🤝 <b>Looking for help with:</b> System design, microservices, cloud scaling, DevOps & MLOps.
+<br><br>🌱 <b>Currently learning:</b> Spring Boot microservices, AWS deployments, DevOps, performance & clean architecture.
+<br><br>💬 <b>Ask me about:</b> Java, Spring Boot, React, MERN, APIs, databases, UI/UX (Figma), QA/testing.
+<br><br>⚡ <b>Fun fact:</b> I enjoy turning complex ideas into simple, interactive products 🚀
+
 
 
 ## 🌐 Socials:
